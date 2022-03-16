@@ -1,0 +1,391 @@
+@media (min-width: 1280px) {
+    .container-top {
+        padding-left: 120px;
+        display: flex;
+        width: 100%;
+    }
+    .flex-item {
+        width: 50%;
+    }
+    .flex-item h1 {
+        font-size: 46px;
+        top: 240px;
+    }
+    .flex-item p {
+        font-size: 24px;
+        top: 340px;
+    }
+    .container-speak {
+        height: 107px;
+        width: 300px;
+    }
+    .item-wrapper {
+        height: 960px;
+    }
+    .heading {
+        padding-top: 101px;
+    }
+    .heading h2 {
+        font-size: 46px;
+    }
+    .heading p {
+        font-size: 24px;
+        padding-top: 160px;
+    }
+    .flex-spek {
+        padding-top: 300px;
+    }
+    .flex-spek h2 {
+        font-size: 46px;
+    }
+    .flex-spek p {
+        font-size: 24px;
+    }
+    .item-content {
+        padding-top: 120px;
+    }
+    .item-content img {
+        width: 468px;
+        height: 476px;
+    }
+    .right img {
+        padding-left: 400px;
+        width: max-content;
+        height: max-content;
+    }
+    .wrapper-product {
+        width: 50%;
+        margin-bottom: 50px;
+        display: flex;
+        width: 100%;
+        justify-content: left;
+        height: 675px;
+        overflow-x: auto;
+    }
+    .product-box {
+        max-width: 470px;
+        height: 675px;
+        margin-right: 30px
+    }
+    .product-box img {
+        width: 410px;
+        height: 240px;
+        margin: 30px;
+    }
+    .droneshop p {
+        padding-right: 165px;
+        font-size: 12.5px;
+    }
+    .explore p {
+        padding-right: 165px;
+        font-size: 12.5px;
+    }
+    .account p {
+        padding-right: 165px;
+        font-size: 12.5px;
+    }
+    .office p {
+        padding-right: 165px;
+        font-size: 12.5px;
+    }
+    .explore h1 {
+        padding-right: 400px;
+    }
+    .explore p {
+        padding-right: 400px;
+    }
+    .account p {
+        padding-right: 400px;
+    }
+    .office p {
+        padding-right: 400px;
+    }
+    .office h1 {
+        padding-right: 400px;
+    }
+    footer {
+        top: 100px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .container-top {
+        padding-left: 100px;
+    }
+    .flex-item {
+        width: 50%;
+    }
+    .flex-item h1 {
+        font-size: 46px;
+        top: 100px;
+    }
+    .flex-item p {
+        font-size: 24px;
+        top: 200px;
+    }
+    .container-speak {
+        height: 107px;
+        width: 300px;
+        justify-content: center;
+    }
+    .item-wrapper {
+        height: 960px;
+    }
+    .heading {
+        padding-top: 101px;
+    }
+    .heading h2 {
+        font-size: 46px;
+    }
+    .heading p {
+        font-size: 24px;
+        padding-top: 160px;
+    }
+    .flex-spek {
+        padding-top: 300px;
+    }
+    .flex-spek h2 {
+        font-size: 46px;
+    }
+    .flex-spek p {
+        font-size: 24px;
+    }
+    .item-content {
+        padding-top: 100px;
+    }
+    .item-content img {
+        width: 468px;
+        height: 476px;
+    }
+    .right img {
+        padding-top: 80px;
+        justify-content: center;
+        width: max-content;
+        height: max-content;
+    }
+    .wrapper-product {
+        width: 50%;
+        margin-bottom: 50px;
+        display: flex;
+        width: 100%;
+        justify-content: left;
+        height: 675px;
+        overflow-x: auto;
+    }
+    .product-box {
+        max-width: 470px;
+        height: 675px;
+        margin-right: 30px
+    }
+    .product-box img {
+        width: 410px;
+        height: 240px;
+        margin: 30px;
+    }
+    .droneshop p {
+        padding-right: 165px;
+        font-size: 12.5px;
+    }
+    .explore p {
+        padding-right: 165px;
+        font-size: 12.5px;
+    }
+    .account p {
+        padding-right: 165px;
+        font-size: 12.5px;
+    }
+    .office p {
+        padding-right: 165px;
+        font-size: 12.5px;
+    }
+}
+
+@media (max-width: 840px) {
+    .container-top .right {
+        padding-left: 10px;
+    }
+    .container-top {
+        width: 100%;
+    }
+    .flex-item {
+        width: 100%;
+    }
+    .flex-item h1 {
+        font-size: 48px;
+        top: 120px;
+    }
+    .container-spek {
+        padding-top: 320px;
+        height: 107px;
+        width: 718px;
+    }
+    .flex-item p {
+        font-size: 26px;
+        top: 240px;
+    }
+    .item-wrapper {
+        height: 900px;
+    }
+    .item-content {
+        padding-top: 240px;
+    }
+    .heading {
+        padding-top: 101px;
+    }
+    .heading h2 {
+        font-size: 48px;
+    }
+    .heading p {
+        font-size: 26px;
+        padding-top: 188px;
+    }
+    .flex-spek {
+        padding-top: 70px;
+    }
+    .item-content {
+        padding-top: 300px;
+    }
+    .item-content img {
+        width: 348px;
+        height: 356px;
+    }
+    footer {
+        width: 100%;
+        height: 200px;
+    }
+}
+
+@media (max-width: 540px) {
+    .flex-item {
+        width: 100%;
+    }
+    .flex-item h1 {
+        font-size: 24px;
+        top: 80px;
+    }
+    .flex-item p {
+        font-size: 14px;
+        top: 140px;
+    }
+    .container-spek {
+        padding-top: 200px;
+    }
+    .item-wrapper {
+        height: 512px;
+    }
+    .heading {
+        padding-top: 40px;
+    }
+    .heading h2 {
+        font-size: 24px;
+    }
+    .heading p {
+        font-size: 14px;
+        padding-top: 80px;
+    }
+    .flex-spek h2 {
+        font-size: 24px;
+    }
+    .flex-spek {
+        width: 428px;
+        padding-top: 2px;
+    }
+    .flex-spek p {
+        font-size: 14px;
+    }
+    .item-content {
+        padding-top: 180px;
+    }
+    .item-content img {
+        width: 190px;
+        height: 190px;
+    }
+    .right img {
+        padding-left: 100px;
+        width: max-content;
+        height: max-content;
+    }
+    .wrapper-product {
+        flex-direction: column;
+        width: 100%;
+        height: 675px;
+        overflow-x: auto;
+        justify-content: center;
+        margin-left: 18px;
+    }
+    .product-box img {
+        width: 290px;
+        height: 220px;
+        margin: 30px;
+    }
+    .product-box {
+        max-width: 470px;
+        height: 675px;
+        text-align: center;
+        background-color: white;
+        border-radius: 20px;
+        border: 1px solid #e5e5e5;
+        margin-top: 30px;
+    }
+    .heading h1 {
+        font-size: 28px;
+    }
+    .heading h3 {
+        font-size: 14px;
+    }
+    .head h1 {
+        font-size: 22px;
+    }
+    .droneshop p {
+        padding-right: 111px;
+        font-size: 10px;
+    }
+    .explore p {
+        padding-right: 111px;
+        font-size: 10px;
+    }
+    .account p {
+        padding-right: 111px;
+        font-size: 10px;
+    }
+    .office p {
+        padding-right: 111px;
+        font-size: 10px;
+    }
+}
+
+
+/* Untuk Tablet */
+
+@media all and (max-width: 768px) {
+    .hamburger {
+        display: flex;
+    }
+    nav ul {
+        width: 50%;
+    }
+}
+
+
+/* Untuk Smartphone */
+
+@media all and (max-width:576px) {
+    .hamburger {
+        display: flex;
+    }
+    nav ul {
+        width: 50%;
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 100vh;
+        justify-content: space-evenly;
+        flex-direction: column;
+        background-color: rgb(41, 41, 43);
+        align-items: center;
+        z-index: -1;
+    }
+    nav ul.slide {
+        transform: translatex(0);
+    }
+}
